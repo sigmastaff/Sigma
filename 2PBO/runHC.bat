@@ -1,0 +1,1 @@
+for /F %%i IN (filenamesHC.txt) DO copy Sigma_Security_Group_HC.VR %%i
