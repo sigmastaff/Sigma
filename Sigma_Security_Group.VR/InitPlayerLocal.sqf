@@ -1,10 +1,1 @@
-["InitializePlayer", [player, true]] call BIS_fnc_dynamicGroups;
-
-daoAvailable = false;
-
-if (!isNil "jtac1") then {
-    if (player == jtac1) then {
-         daoAvailable = true;
-	 daoManualInput = true;
-    };
-};
+["InitializePlayer", [player, true]] call BIS_fnc_dynamicGroups; 
