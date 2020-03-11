@@ -4,8 +4,8 @@ Sigma_Security_Group.Chernarus.pbo
 Sigma_Security_Group.Chernarus_Summer.pbo
 Sigma_Security_Group.Chernarus_Winter.pbo
 Sigma_Security_Group.DeadRoad.pbo
+Sigma_Security_Group.DYA.pbo
 Sigma_Security_Group.Enoch.pbo
-Sigma_Security_Group.Hebontes.pbo
 Sigma_Security_Group.Hellanmaa.pbo
 Sigma_Security_Group.HellanmaaW.pbo
 Sigma_Security_Group.Khoramshahr.pbo
@@ -13,12 +13,9 @@ Sigma_Security_Group.Kidal.pbo
 Sigma_Security_Group.Kunduz.pbo
 Sigma_Security_Group.Lythium.pbo
 Sigma_Security_Group.Malden.pbo
-Sigma_Security_Group.MCN_Aliabad.pbo
-Sigma_Security_Group.MCN_HazarKot.pbo
 Sigma_Security_Group.pja310.pbo
 Sigma_Security_Group.Porto.pbo
 Sigma_Security_Group.Pulau.pbo
-Sigma_Security_Group.RHSPKL.pbo
 Sigma_Security_Group.Ruha.pbo
 Sigma_Security_Group.Sara.pbo
 Sigma_Security_Group.Shapur_BAF.pbo
@@ -27,7 +24,6 @@ Sigma_Security_Group.Takistan.pbo
 Sigma_Security_Group.Tanoa.pbo
 Sigma_Security_Group.TEM_Anizay.pbo
 Sigma_Security_Group.TEM_Cham.pbo
-Sigma_Security_Group.TEM_Ihantala.pbo
 Sigma_Security_Group.TEM_IhantalaW.pbo
 Sigma_Security_Group.TEM_Kujari.pbo
 Sigma_Security_Group.TEM_Summa.pbo
